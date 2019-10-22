@@ -10,3 +10,17 @@
 .clickable:hover {
   text-decoration: underline;
 }
+ .orange-background {
+   background-color: #e67e00;
+   color: darkgreen;
+ }
+
+ .purp-background {
+   background-color: #660066;
+   color: #ff751a;
+ }
+
+ .black-background {
+   background-color: black;
+   color: #ffe6ff
+ }
