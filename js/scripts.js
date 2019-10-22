@@ -3,8 +3,6 @@ $(document).ready(function() {
     $("#clown-hidden").slideToggle();
     $("#clown-showing").slideToggle();
   });
-});
-$(document).ready(function() {
   $("button#orange").click(function() {
     $("body").removeClass();
     $("body").addClass("orange-background");
